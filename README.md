@@ -1,5 +1,3 @@
-# Courses-Learning-DOCs-And-Notes
-
 # 📚 Courses | Learning Docs & Notes
 
 Welcome to my personal cybersecurity knowledge repository.
