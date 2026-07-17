@@ -24,6 +24,7 @@ The repository currently includes notes for topics such as:
 
 - Network+
 - Web Penetration Testing
+- SOC Analyst (Tier 1)
 - SOC Analyst (Tier 2)
 - Firewalls & Network Security
 - Windows Forensics (FOR500)
@@ -33,7 +34,7 @@ The repository currently includes notes for topics such as:
 - OWASP
 - Splunk
 - Interview Questions & Technical Notes
-- AI-Assisted Learning Notes
+- Assisted Learning Notes
 
 More courses and documentation will be added over time.
 
